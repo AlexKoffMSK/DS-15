@@ -163,4 +163,4 @@ cython_debug/
 
 /ignor/
 
-/Lect9 tg-bot/bot_token.py
+/Lect9 tg-bot/bot_token/
